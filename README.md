@@ -3,4 +3,5 @@
 ## Contributors
 
 - Master Maintainer - Greg Tomco
-Renz Rusca
+
+1. Renz Rusca
