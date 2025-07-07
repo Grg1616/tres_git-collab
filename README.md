@@ -6,3 +6,5 @@
 
 1. Renz Rusca
 2. Matthew Pega
+3. Onel Regalado
+   
