@@ -2,4 +2,3 @@
 
 ## Contributors
 
-2. Renz Rusca
